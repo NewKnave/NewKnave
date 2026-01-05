@@ -2,9 +2,11 @@
 
 ### About me
 
-I am a self-taught developer.
+I am a self-taught developer who loves the art of cryptography.
 
 ### My works
+
+ACSSh and ACSASh. These two are inspired by the Caesar Cipher. It is a simple program that I am proud of!
 
 <!--
 **NewKnave/NewKnave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
