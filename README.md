@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a self-taught developer who loves the art of cryptography.
+I am a self-taught developer who loves the art of cryptography and cybersecurity.
 My main promgramming language are C and C++.
 
 ### My works
