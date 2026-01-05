@@ -3,6 +3,7 @@
 ### About me
 
 I am a self-taught developer who loves the art of cryptography.
+My main promgramming language are C and C++.
 
 ### My works
 
