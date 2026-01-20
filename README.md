@@ -4,6 +4,8 @@
 
 I am a self-taught developer who loves the art of cryptography and cybersecurity.
 
+I just make simple programs for fun.
+
 My main programming language are C and C++.
 
 ### My works
