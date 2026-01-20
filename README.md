@@ -10,7 +10,7 @@ My main programming language are C and C++.
 
 ACSSh94 and ACSASh94. These two are inspired by the Caesar Cipher. It is a simple program that I am proud of!
 
-The 8, 16, and 32 bits hashing algorithms are concepts about how a hashing algorithm works.
+The 8, 16, and 32 bits hashing algorithms are concepts about how I understand the fuctions of hashing algorithms.
 
 <!--
 **NewKnave/NewKnave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
