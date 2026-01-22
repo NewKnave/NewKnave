@@ -6,7 +6,7 @@ I am a self-taught programmer who loves the art of cryptography and cybersecurit
 
 I just make simple programs for fun.
 
-My main programming language are C and C++.
+My main programming languages are C and C++.
 
 ### My works
 
