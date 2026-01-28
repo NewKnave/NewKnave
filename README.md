@@ -6,8 +6,6 @@ I am a self-taught programmer who loves the art of cryptography and cybersecurit
 
 I just make simple programs for fun.
 
-My main programming languages are C and C++.
-
 ### My works
 
 ACSSh94 and ACSASh94 are inspired by the Caesar Cipher. It is a simple program that I am proud of!
