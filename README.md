@@ -10,4 +10,4 @@ I just make simple programs for fun and then share it.
 
 ACSSh94 is inspired by the Caesar Cipher. It is a simple program that I am proud of!
 
-The 8, 16, and 32 bits hashing algorithms are just simple concepts. Its how I understand the fuctions of hashing algorithms.
+8, 16, and 32 bits hashing algorithms are simple concepts that I made for fun.
